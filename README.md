@@ -128,19 +128,11 @@ $ python export2step.py --src {source folder} # export to step format
 ```
 Script to create CAD modeling sequence in Onshape according to generated outputs: TBA.
 
-## Acknowledgement
-We would like to thank and acknowledge referenced codes from [DeepSVG](https://github.com/alexandre01/deepsvg), [latent 3d points](https://github.com/optas/latent_3d_points) and [PointFlow](https://github.com/stevenygd/PointFlow).
+## Example Models and Resources
 
-## Cite
+To explore the examples of generated CAD models and view them interactively, the following resources are provided:
 
-Please cite our work if you find it useful:
-```
-@InProceedings{Wu_2021_ICCV,
-    author    = {Wu, Rundi and Xiao, Chang and Zheng, Changxi},
-    title     = {DeepCAD: A Deep Generative Network for Computer-Aided Design Models},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month     = {October},
-    year      = {2021},
-    pages     = {6772-6782}
-}
-```
+- **Google Drive:** Download the generated CAD models and the trained model network files from [this link](https://drive.google.com/drive/folders/1roDuzzC8Z2hz5XrTCBtdGT8hymjenICO?usp=sharing).
+- **3D Viewer:** View CAD models interactively using [ShareCAD Viewer](https://sharecad.org/ru?utm_source=chatgpt.com). Simply download a model from Google Drive and upload it to the viewer to examine the details.
+
+
